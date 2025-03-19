@@ -38,10 +38,7 @@ NoorBytes is **not just a project – it’s a movement**. Join us in shaping th
 ---
 
 ## 🤝 Join the Movement  
-📌 **Website**: [www.noorbytes.org](https://www.noorbytes.org)  
 📌 **GitHub**: [github.com/noorbytes](https://github.com/noorbytes)  
-📌 **Twitter**: [@NoorBytes](https://twitter.com/NoorBytes)  
-📌 **Discord Community**: [Join Here](#)  
 
 🔗 *Open-source, faith-driven, and community-powered.*  
 🚀 *Empowering the Ummah, one byte at a time.*
